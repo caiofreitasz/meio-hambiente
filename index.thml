@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoVida | Cuidar do planeta</title>
+
+```
+<link rel="stylesheet" href="style.css">
+```
+
+</head>
+
+<body>
+
+```
+<header>
+    <div class="logo">🌱 EcoVida</div>
+
+    <nav>
+        <a href="#">Início</a>
+        <a href="#">Natureza</a>
+        <a href="#">Sustentabilidade</a>
+    </nav>
+</header>
+
+<main>
+
+    <section class="hero">
+        <div class="conteudo">
+
+            <span class="tag">🌎 NOSSO PLANETA, NOSSA CASA</span>
+
+            <h1>
+                Pequenas atitudes,
+                <strong>grandes mudanças.</strong>
+            </h1>
+
+            <p>
+                Cuidar do meio ambiente começa com escolhas simples.
+                Cada atitude sustentável ajuda a construir um futuro
+                mais verde para todos.
+            </p>
+
+            <button id="botao">
+                Descubra uma atitude 🌿
+            </button>
+
+            <p id="mensagem">
+                Clique no botão para receber uma dica sustentável.
+            </p>
+
+        </div>
+
+        <div class="imagem">
+            <div class="circulo">🌎</div>
+            <div class="folha folha1">🍃</div>
+            <div class="folha folha2">🌿</div>
+        </div>
+    </section>
+
+    <section class="cards">
+
+        <div class="card">
+            <span>♻️</span>
+            <h2>Recicle</h2>
+            <p>
+                Separe corretamente os resíduos e dê uma nova vida
+                aos materiais.
+            </p>
+        </div>
+
+        <div class="card">
+            <span>💧</span>
+            <h2>Economize água</h2>
+            <p>
+                Evite desperdícios e use a água de maneira consciente.
+            </p>
+        </div>
+
+        <div class="card">
+            <span>🌳</span>
+            <h2>Preserve</h2>
+            <p>
+                Proteja as árvores, os animais e os espaços naturais.
+            </p>
+        </div>
+
+    </section>
+
+</main>
+
+<footer>
+    <p>🌱 EcoVida — Cada escolha conta para o futuro.</p>
+</footer>
+
+<script src="script.js"></script>
+```
+
+</body>
+</html>
